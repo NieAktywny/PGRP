@@ -24,6 +24,7 @@ if rodzaj == "S":
         else:
             wyjazds = "tylko tego rozkazu pisemnego "
 
+
         semafors=input("Podaj nazwę semafora lub toru: ")
 
         stacjas=input("Podaj nazwę stacji: ")
